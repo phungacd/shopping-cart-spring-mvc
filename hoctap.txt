@@ -1,0 +1,5 @@
+B1:đầu tiên qua web.xml
+b2 chạy qua bean shopping cart config servlet để scan từ context
+
+
+
